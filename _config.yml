@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Turin"
+title                    : "Dr."
 title_separator          : "-"
-name                     : &name "2025"
+name                     : &name "Maximilian Zachrau"
 # description              : &description "personal description"
 url                      : https://k1ssndr.github.io/turin2025/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -31,7 +31,7 @@ author:
   email            : "maximilian.zachrau@uni-siegen.de" 
 
   # Academic websites
-  Anna-Lisa    : "https://www.uni-siegen.de/phil/philosophie/mitarbeiter/nussbaum_anna-lisa/index.html"
+  Anna-Lisa      : "https://www.uni-siegen.de/phil/philosophie/mitarbeiter/nussbaum_anna-lisa/index.html"
   Max            : "https://sites.google.com/view/maximilianzachrau"
   Cord           : "https://www.uni-siegen.de/phil/philosophie/mitarbeiter/cord_friebe/"
   
