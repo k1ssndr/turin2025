@@ -9,10 +9,15 @@ redirect_from:
 
 Overview
 ======
+
 The systematic perspective that is thematic to our workshop, process philosophy, accentuates the dynamicity of reality. Process philosophy starts from the presupposition that such dynamicity as the characteristic feature of processes is an indispensable part of good metaphysical explanations. Thus, processists not only challenge the reductionist’s accounts of dynamicity but also, in placing dynamic processes at the foundation, they aim to make fruitful the explanatory power of processes as explanantia. Processes offer novel ways of explaining for emergence, causality, mental occurrences, normativity, etc. 
+
 In its effort to restore dynamicity to a focal point of comprehensive philosophical study, process philosophy is nothing short of a paradigm shift. It replaces central assumptions and concepts by their dynamic counterparts. This paradigm shift encompasses a broader process philosophical account but also more narrow reinterpretations of scientific questions and their interpretation.
+
 In our workshop we want to pick out two particularly important sciences regarding such a processual shift: Biology and Physics. Especially in the philosophy of biology there is a long-standing dispute over the feasibility of a purely mechanistic explanation of life – and recently it seems to strongly trend towards the negative. Then life must be grounded not in the state-sequence of inherently static functions, but a processual organistic account. 
+
 Similarly, there is a processual attempt to understand the fundamental entities of modern physics. Processists have argued that the vexing nature of quantum particles, fields or spacetime are better understood from a processual perspective. Some have explicitly defended the claim that quantum field theory confronts us with entities that match most convincingly with processes and recently, physicist Carlo Rovelli has defended a theory of loop quantum gravity (LQG) which can be understood as a thesis about the emergence of spacetime from fundamental processes. Do the processes at the fundamental level exist (metaphysically) before time then? 
+
 At our workshop we aim to work on the foundation of process metaphysics. We are inviting speakers working on notions of processes and dynamicity more broadly alongside experts on sciences, particularly physics and biology. We hope that such an event can both foster effects of synergy across discourses but equally discuss in-depth particular issues. Therefore, we have also invited speakers critical of the processual movement which have written nuanced articles on the potential shortcomings of some of the process-proposals. 
 
 Format
