@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /workshop/
 title: "Workshop: Process Metaphysics"
 author_profile: true
 redirect_from: 
