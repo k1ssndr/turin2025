@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Summer School Process Metaphysics 2025, Turin, Italy"
+title: "Summer School: Process Metaphysics"
 author_profile: true
 redirect_from: 
   - /summerschool/
@@ -26,7 +26,7 @@ Key Questions
 Structure
 ======
 
-We plan a three-day summer school, with each day dedicated to one of the following overarching topics:
+We plan a three-day summer school on the 15th, 16th and 17th of September, with each day dedicated to one of the following overarching topics:
 
 1.	Dynamic metaphysics - general principles
 2.	Dynamic metaphysics and biology
@@ -39,12 +39,12 @@ Each day will be structured as follows:
 Teachers
 ======
 
-Tina Röck (University of Dundee, UK, Scotland) – Dynamic metaphysics - general principles
-Vesselin Petrov (Bulgarian Academy of Sciences) – Dynamic metaphysics - general principles
-Anna-Lisa Nußbaum (University of Siegen) — Dynamic metaphysics and biology
-Maximilian Zachrau (University of Siegen) – Dynamic metaphysics and biology
-Emilia Margoni (University of Geneva, University of Pisa/Firenze) – Dynamic metaphysics and physics
-Cord Friebe (University of Siegen) – Dynamic metaphysics and physics
+-	Tina Röck (University of Dundee, UK, Scotland) 
+-	Vesselin Petrov (Bulgarian Academy of Sciences) 
+-	Anna-Lisa Nußbaum (University of Siegen)
+-	Maximilian Zachrau (University of Siegen) 
+-	Emilia Margoni (University of Geneva, University of Pisa/Firenze) 
+-	Cord Friebe (University of Siegen) 
 
 Literature
 ======
