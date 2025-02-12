@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /location/
 title: "Location: Summer School & Workshop"
 author_profile: true
 redirect_from: 
