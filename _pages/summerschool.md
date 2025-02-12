@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /summerschool/
 title: "Summer School: Process Metaphysics"
 author_profile: true
 redirect_from: 
