@@ -10,6 +10,8 @@ As with our previous events we are happy to organise both our summer school and 
 
 ![The Mole Antonelliana and in the background the Alps](turin.jpg "The Mole Antonelliana and in the background the Alps")
 
+Turin by Marit & Toomas Hinnosaar is licensed under CC BY 2.0 Generic on Flickr.com
+
 Scienza Nuova Institute
 ======
 The events will take place at the Scienza Nuova Institute, which is found at Corso Rodolfo Montevecchio, 38, 10129 Torino TO, Italien. Special thanks goes to Prof. Gabriele Gava, University of Turin, to facilitate our stay there.
