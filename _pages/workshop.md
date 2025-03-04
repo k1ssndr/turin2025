@@ -33,7 +33,7 @@ Presenters
 -	Vesselin Petrov (Bulgarian Academy of Sciences): Dynamic Methodology for the Philosophy of Education
 -	Tina Röck (University of Dundee, UK, Scotland): Fundamental Impermanence – Overlaps between Whitehead’s process philosophy and Buddhist thought
 - Dennis Sölch (University of Düsseldorf): Process Metaphysics in the Context of Early Twentieth Century Biology
-- Giuliano Torrengo (University of Milan): TBA
+- Giuliano Torrengo (University of Milan): The passage of time, processes, and fragmentalism
 - Maximilian Zachrau (University of Siegen): Levelled Notions of Dynamicity – Fundamental Processes and Dynamic Time
 
 Schedule
