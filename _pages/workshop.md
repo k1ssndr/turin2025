@@ -48,4 +48,4 @@ There are only limited spots available. If you want to attend the talks please s
 
 Proceedings
 ======
-Philosophies, an international, peer-reviewed, open-access journal from MDPI, has agreed to publish the workshop proceedings on a rolling basis in a special issue on "Process Metaphysics".
+Philosophies, an international, peer-reviewed, open-access journal from MDPI, has agreed to publish the workshop proceedings on a rolling basis in a special issue on "Process Metaphysics". You can find the webpage here: https://www.mdpi.com/journal/philosophies/special_issues/WR0Q64WHA8
