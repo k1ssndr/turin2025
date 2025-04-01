@@ -38,7 +38,32 @@ Presenters
 
 Schedule
 ======
-TBA
+
+Thursday 18th of September
+
+09:15-09:30	Introduction	
+09:30-10:30	Tina Röck	Fundamental Impermanence – Overlaps between Whitehead’s process philosophy and Buddhist thought
+10:30-10:45	Break	
+10:45-11:45	Maximilian Zachrau	Levelled Notions of Dynamicity – Fundamental Processes and Dynamic Time
+11:45-12:00	Break	
+12:00-13:00	Anna-Lisa Nußbaum	Temporally expanding wholes in the Growing-Block universe
+13:00-15:00	Lunch Break	
+15:00-16:00	Vesselin Petrov	Dynamic Methodology for the Philosophy of Education
+16:00-16:15	Break	
+16:15-17:15	Spyridion A. Koutroufinis	Can organisms be understood ontologically appropriately through neo-mechanistic thinking? A process-metaphysical perspective.
+
+ 
+Friday 19th of September
+
+09:30-10:30	Dennis Sölch	Process Metaphysics in the Context of Early Twentieth Century Biology
+10:30-10:45	Break	
+10:45-11:45	William Morgan	TBA
+11:45-12:00	Break	
+12:00-13:00	Cord Friebe	Is the expanding universe a fundamental process?
+13:00-15:00	Lunch Break	
+15:00-16:00	Emilia Margoni	Meeting at the crossroads: foundational physics and process thinking
+16:00-16:15	Break	
+16:15-17:15	Giuliano Torrengo	TBA
 
 Participation
 ======
