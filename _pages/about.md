@@ -14,3 +14,5 @@ On the following pages you can find information both on the summer school organi
 Organisation
 ======
 The event is organised by the chair of theoretical philosophy at the University of Siegen, Germany. The organisers are Anna-Lisa Nußbaum, M.A., Dr. Maximilian Zachrau and Prof. Dr. Cord Friebe.
+
+![Anna](Anna.png) ![Max](Max.png) ![Cord](Cord.png)
