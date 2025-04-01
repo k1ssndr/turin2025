@@ -15,6 +15,8 @@ On the following pages you can find information both on the summer school organi
 
 ![The Mole Antonelliana and in the background the Alps](/images/turin.png)
 
+![The Mole Antonelliana and in the background the Alps](turin.png)
+
 Organisation
 ======
 The event is organised by the chair of theoretical philosophy at the University of Siegen, Germany. The organisers are Anna-Lisa Nußbaum, M.A., Dr. Maximilian Zachrau and Prof. Dr. Cord Friebe.
