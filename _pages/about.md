@@ -13,7 +13,7 @@ On the following pages you can find information both on the summer school organi
 
 <img src="https://github.com/k1ssndr/turin2025/blob/master/images/turin.png"/>
 
-![The Mole Antonelliana and in the background the Alps](images/turin.png)
+![The Mole Antonelliana and in the background the Alps](/blob/master/images/turin.png)
 
 Organisation
 ======
