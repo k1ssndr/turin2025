@@ -11,7 +11,7 @@ From the 15th to 19th of September, 2025, we are organising a summer school foll
 
 On the following pages you can find information both on the summer school organised for international students and the following workshop featuring distinguished researchers.
 
-<img src="https://github.com/k1ssndr/turin2025/images/turin.png"/>
+<img src="https://github.com/k1ssndr/turin2025/blob/master/images/turin.png"/>
 
 ![The Mole Antonelliana and in the background the Alps](/images/turin.png)
 
