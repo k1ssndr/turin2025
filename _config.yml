@@ -12,9 +12,9 @@ title                    : "Process Metaphysics"
 title_separator          : "-"
 name                     : &name "Maximilian Zachrau"
 # description              : &description "personal description"
-url                      : https://k1ssndr.github.io/turin2025/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://k1ssndr.github.io/turin2025/"
+url                      : https://k1ssndr.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "/turin2025" # the subpath of your site, e.g. "/blog"
+repository               : "k1ssndr.github.io/turin2025/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
