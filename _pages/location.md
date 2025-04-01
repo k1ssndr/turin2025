@@ -10,6 +10,9 @@ As with our previous events we are happy to organise both our summer school and 
 
 <img src="https://github.com/k1ssndr/turin2025/blob/master/images/turin.jpg" width="800" /> ![The Mole Antonelliana and in the background the Alps](turin.jpg "The Mole Antonelliana and in the background the Alps")
 
+![The Mole Antonelliana and in the background the Alps](/images/turin.jpg)
+
+
 Turin by Marit & Toomas Hinnosaar is licensed under CC BY 2.0 Generic on Flickr.com
 
 Scienza Nuova Institute
