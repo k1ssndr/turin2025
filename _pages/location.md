@@ -8,10 +8,7 @@ Turin
 ======
 As with our previous events we are happy to organise both our summer school and the following conference in northern Italy. The events take place in Turin, the capital of the Piedmont region with mild and pleasant temperatures in September, ranging from around 14°C in the early morning to 24°C in the afternoon.
 
-<img src="https://github.com/k1ssndr/turin2025/blob/master/images/turin.jpg" width="800" /> ![The Mole Antonelliana and in the background the Alps](turin.jpg "The Mole Antonelliana and in the background the Alps")
-
-![The Mole Antonelliana and in the background the Alps](/images/turin.jpg)
-
+![The Mole Antonelliana and in the background the Alps](/images/turin.png)
 
 Turin by Marit & Toomas Hinnosaar is licensed under CC BY 2.0 Generic on Flickr.com
 
