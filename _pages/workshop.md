@@ -27,7 +27,7 @@ Presenters
 ======
 
 -	Cord Friebe (University of Siegen): Is the expanding universe a fundamental process?
--	Spyridon Α. Koutroufinis (Technische Universität Berlin): Limits to system theoretical accounts of organism – some processual alternatives
+-	Spyridon Α. Koutroufinis (Technische Universität Berlin): Can organisms be understood ontologically appropriately through neo-mechanistic thinking? A process-metaphysical perspective.
 -	Emilia Margoni (University of Geneva, University of Pisa/Firenze): Meeting at the crossroads: foundational physics and process thinking
 -	Anna-Lisa Nußbaum (University of Siegen): Temporally expanding wholes in the Growing-Block universe
 -	Vesselin Petrov (Bulgarian Academy of Sciences): Dynamic Methodology for the Philosophy of Education
@@ -50,7 +50,7 @@ Thursday 18th of September
 - 13:00-15:00	Lunch Break	
 - 15:00-16:00	Vesselin Petrov	Dynamic Methodology for the Philosophy of Education
 - 16:00-16:15	Break	
-- 16:15-17:15	Spyridion A. Koutroufinis	Can organisms be understood ontologically appropriately through neo-mechanistic thinking? A process-metaphysical perspective.
+- 16:15-17:15	Spyridon A. Koutroufinis	Can organisms be understood ontologically appropriately through neo-mechanistic thinking? A process-metaphysical perspective.
 
 Friday 19th of September
 
