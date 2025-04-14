@@ -15,3 +15,7 @@ Turin by Marit & Toomas Hinnosaar is licensed under CC BY 2.0 Generic on Flickr.
 Scienza Nuova Institute
 ======
 The events will take place at the Scienza Nuova Institute, which is found at Corso Rodolfo Montevecchio, 38, 10129 Torino TO, Italien. Special thanks goes to Prof. Gabriele Gava, University of Turin, to facilitate our stay there.
+
+Accommodation
+======
+Speakers at the workshop and teachers at the summerschool are staying in the Hotel Politecnico, Corso Peschiera, 117, 10141 Torino, which is around 20 minutes from our venue. Here is the webpage: https://politecnico.bqhotel.it/
