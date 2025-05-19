@@ -42,7 +42,7 @@ Schedule
 Thursday 18th of September
 
 - 09:15-09:30	Introduction	
-- 09:30-10:30	Tina Röck	Fundamental Impermanence – Overlaps between Whitehead’s process philosophy and Buddhist thought
+- 09:30-10:30	Dennis Sölch	Process Metaphysics in the Context of Early Twentieth Century Biology
 - 10:30-10:45	Break	
 - 10:45-11:45	Maximilian Zachrau	Levelled Notions of Dynamicity – Fundamental Processes and Dynamic Time
 - 11:45-12:00	Break	
@@ -54,7 +54,7 @@ Thursday 18th of September
 
 Friday 19th of September
 
-- 09:30-10:30	Dennis Sölch	Process Metaphysics in the Context of Early Twentieth Century Biology
+- 09:30-10:30	Tina Röck	Fundamental Impermanence – Overlaps between Whitehead’s process philosophy and Buddhist thought
 - 10:30-10:45	Break	
 - 10:45-11:45	William Morgan	TBA
 - 11:45-12:00	Break	
