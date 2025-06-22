@@ -56,7 +56,7 @@ Friday 19th of September
 
 - 09:30-10:30	Tina Röck	Fundamental Impermanence – Overlaps between Whitehead’s process philosophy and Buddhist thought
 - 10:30-10:45	Break	
-- 10:45-11:45	William Morgan	TBA
+- 10:45-11:45	Ori Belkind  Motion as a primitive entity, and the fundamentals of spacetime
 - 11:45-12:00	Break	
 - 12:00-13:00	Cord Friebe	Is the expanding universe a fundamental process?
 - 13:00-15:00	Lunch Break	
