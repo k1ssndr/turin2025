@@ -43,13 +43,42 @@ Teachers
 -	Emilia Margoni (University of Geneva, University of Pisa/Firenze) 
 -	Cord Friebe (University of Siegen) 
 
-Literature
-======
-TBA
-
 Schedule
 ======
-TBA
+15th of September:   Dynamic metaphysics - general principles
+10.00   Welcome
+10.00 – 12.00		Lecture	Maximilian Zachrau “What is Dynamic Metaphysics?”
+12.00 – 13.30		Break		Lunch
+13.30 – 15.30		Lecture	Anna-Lisa Nußbaum & Maximilian Zachrau TBA
+15.30 – 16.30		Break		Coffee
+16.30 – 18.30		Seminar	Tina Röck “Near Enemies” of Process Philosophy
+
+16th of September:   Dynamic metaphysics and biology 
+10.00 – 12.00		Lecture	Maximilian Zachrau “The Philosophy of Organism”
+12.00 – 13.30		Break		Lunch
+13.30 – 15.30		Lecture	Anna-Lisa Nußbaum	TBA
+15.30 – 16.30		Break		Coffee
+16.30 – 18.30		Seminar	Anna-Lisa Nußbaum TBA
+
+17th of September:   Dynamic metaphysics and physics
+10.00 – 12.00		Lecture	Vesselin Petrov “A Whiteheadian-Type Theory of Space and Time”
+12.00 – 13.30		Break		Lunch
+13.30 – 15.30		Lecture	Cord Friebe TBA
+15.30 – 16.30		Break		Coffee
+16.30 – 18.30		Seminar	Emilia Margoni “Processualism all the way down: Bohm’s understanding of physics”
+
+Literature
+======
+Dynamic metaphysics - general principles
+•	Stout, R. (1997). “Processes.” Philosophy 72(279): 19–27.
+•	Galton, A. (2017). “The Dynamic Present,” in Logic and Philosophy of Time — Themes from Prior, P. Blackburn, P. Hasle, & P. Øhrstrøm (eds.), Aalborg University Press: 167–187.
+
+Dynamic metaphysics and biology
+•	Pradeu, T. (2018). “Genidentity and Biological Processes,” in Everything Flows: Towards a Processual Philosophy of Biology, J. Dupré & D. Nicholson (eds.), Oxford University Press: 96–112.
+•	Koutroufinis, S. A. (2017). “Organism, Machine, Process: Towards a Process Ontology for Organismic Dynamics.” Organisms. Journal of Biological Sciences 1(1): 22–44.
+
+Dynamic metaphysics and physics
+•	Margoni, E. (2022). “Can There Be a Process Without Time? Processualism Within Timeless Physics.” Foundations of Physics 52(2): 48.
 
 Participation
 ======
