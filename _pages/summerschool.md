@@ -51,7 +51,7 @@ Schedule
 - 12.00 – 13.30		Break		Lunch
 - 13.30 – 15.30		Lecture	Anna-Lisa Nußbaum & Maximilian Zachrau TBA
 - 15.30 – 16.30		Break		Coffee
-- 16.30 – 18.30		Seminar	Tina Röck “Near Enemies” of Process Philosophy
+- 16.30 – 18.30		Seminar	Tina Röck “What characterises processes and how do processes differ from false friends (cognates like change or events)?"
 
 16th of September:   Dynamic metaphysics and biology 
 - 10.00 – 12.00		Lecture	Maximilian Zachrau “The Philosophy of Organism”
