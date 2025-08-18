@@ -50,7 +50,7 @@ Thursday 18th of September
 - 13:00-15:00	Lunch Break	
 - 15:00-16:00	Vesselin Petrov	Dynamic Methodology for the Philosophy of Education
 - 16:00-16:15	Break	
-- 16:15-17:15	Spyridon A. Koutroufinis	Can organisms be understood ontologically appropriately through neo-mechanistic thinking? A process-metaphysical perspective.
+- 16:15-17:15	Spyridon A. Koutroufinis	Can Neo-Mechanistic Thinking Capture the Nature of Organisms? A Process-Metaphysical Perspective.
 
 Friday 19th of September
 
