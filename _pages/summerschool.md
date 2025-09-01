@@ -63,7 +63,7 @@ Schedule
 17th of September:   Dynamic metaphysics and physics
 - 10.00 – 12.00		Lecture	Vesselin Petrov “A Whiteheadian-Type Theory of Space and Time”
 - 12.00 – 13.30		Break		Lunch
-- 13.30 – 15.30		Lecture	Cord Friebe TBA
+- 13.30 – 15.30		Seminar	Cord Friebe "Does Space Endure, Perdure, or Become? Rethinking the Expanding Universe"
 - 15.30 – 16.30		Break		Coffee
 - 16.30 – 18.30		Seminar	Emilia Margoni “Processualism all the way down: Bohm’s understanding of physics”
 
