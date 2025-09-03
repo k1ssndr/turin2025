@@ -26,6 +26,7 @@ The workshop will be structured aligning with the three topics it aims to cover.
 Presenters
 ======
 
+- Ori Belkind (University of Tel Aviv): Motion as a primitive entity, and the fundamentals of spacetime
 -	Cord Friebe (University of Siegen): Is the expanding universe a fundamental process?
 -	Spyridon Α. Koutroufinis (Technische Universität Berlin): Can organisms be understood ontologically appropriately through neo-mechanistic thinking? A process-metaphysical perspective.
 -	Emilia Margoni (University of Geneva, University of Pisa/Firenze): Meeting at the crossroads: foundational physics and process thinking
