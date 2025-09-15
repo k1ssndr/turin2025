@@ -43,7 +43,7 @@ Teachers
 -	Emilia Margoni (University of Geneva, University of Pisa/Firenze) 
 -	Cord Friebe (University of Siegen) 
 
-Schedule
+Schedule --- IMPORTANT SCHEDULE CHANGE FOR 16th AND 17th OF SEPTEMBER
 ======
 15th of September:   Dynamic metaphysics - general principles
 - 10.00   Welcome
@@ -54,18 +54,18 @@ Schedule
 - 16.30 – 18.30		Seminar	Tina Röck “What characterises processes and how do processes differ from false friends (cognates like change or events)?"
 
 16th of September:   Dynamic metaphysics and biology 
-- 10.00 – 12.00		Lecture	Maximilian Zachrau “The Philosophy of Organism”
-- 12.00 – 13.30		Break		Lunch
-- 13.30 – 15.30		Lecture	Anna-Lisa Nußbaum	"Processural aspects in memory and consciousness"
-- 15.30 – 16.30		Break		Coffee
-- 16.30 – 18.30		Seminar	Anna-Lisa Nußbaum & Maximilian Zachrau "Organism, Machine, Process"
+- 09.00 – 11.00		Lecture	Maximilian Zachrau “The Philosophy of Organism”
+- 11.00 – 12.00		Break
+- 12.00 – 13.30		Lecture	Anna-Lisa Nußbaum	"Processural aspects in memory and consciousness"
+- 13.30 – 15.00		Break		Lunch
+- 15.00 – 17.00		Seminar	Anna-Lisa Nußbaum & Maximilian Zachrau "Organism, Machine, Process"
 
 17th of September:   Dynamic metaphysics and physics
-- 10.00 – 12.00		Lecture	Vesselin Petrov “A Whiteheadian-Type Theory of Space and Time”
-- 12.00 – 13.30		Break		Lunch
-- 13.30 – 15.30		Seminar	Cord Friebe "Does Space Endure, Perdure, or Become? Rethinking the Expanding Universe"
-- 15.30 – 16.30		Break		Coffee
-- 16.30 – 18.30		Seminar	Emilia Margoni “Processualism all the way down: Bohm’s understanding of physics”
+- 09.00 – 11.00		Lecture	Vesselin Petrov “A Whiteheadian-Type Theory of Space and Time”
+- 11.00 – 12.00		Break		Lunch
+- 12.00 – 13.30		Seminar	Cord Friebe "Does Space Endure, Perdure, or Become? Rethinking the Expanding Universe"
+- 13.30 – 15.00		Break		Lunch
+- 15.30 – 17.00		Seminar	Emilia Margoni “Processualism all the way down: Bohm’s understanding of physics”
 
 Literature
 ======
