@@ -37,7 +37,7 @@ Presenters
 - Giuliano Torrengo (University of Milan): The passage of time, processes, and fragmentalism
 - Maximilian Zachrau (University of Siegen): Levelled Notions of Dynamicity – Fundamental Processes and Dynamic Time
 
-Schedule
+Schedule  -  UPDATED! slight change of schedule regarding the finishing talk
 ======
 
 Thursday 18th of September
@@ -50,8 +50,8 @@ Thursday 18th of September
 - 12:00-13:00	Anna-Lisa Nußbaum	Temporally expanding wholes in the Growing-Block universe
 - 13:00-15:00	Lunch Break	
 - 15:00-16:00	Vesselin Petrov	Dynamic Methodology for the Philosophy of Education
-- 16:00-16:15	Break	
-- 16:15-17:15	Spyridon A. Koutroufinis	Can Neo-Mechanistic Thinking Capture the Nature of Organisms? A Process-Metaphysical Perspective.
+- 16:00-16:05	Break	
+- 16:05-17:05	Spyridon A. Koutroufinis	Can Neo-Mechanistic Thinking Capture the Nature of Organisms? A Process-Metaphysical Perspective.
 
 Friday 19th of September
 
@@ -62,8 +62,8 @@ Friday 19th of September
 - 12:00-13:00	Cord Friebe	Is the expanding universe a fundamental process?
 - 13:00-15:00	Lunch Break	
 - 15:00-16:00	Emilia Margoni	Meeting at the crossroads: foundational physics and process thinking
-- 16:00-16:15	Break	
-- 16:15-17:15	Giuliano Torrengo	The passage of time, processes, and fragmentalism
+- 16:00-16:05	Break	
+- 16:15-17:05	Giuliano Torrengo	The passage of time, processes, and fragmentalism
 
 Participation
 ======
