@@ -4,6 +4,10 @@ title: "Summer School: Process Metaphysics"
 author_profile: true
 ---
 
+**Thank You! A Successful Summer School Comes to a Close**
+======
+The Summer School has successfully concluded on September 17, 2025. We extend our gratitude to all teachers and participants who made this event an extraordinary gathering of minds and ideas.
+
 Overview
 ======
 Process Metaphysics encompasses all views which posit that static conceptions of reality are insufficient to fully explain both every day and scientific phenomena. Instead, these perspectives propose understanding the world as fundamentally dynamic, emphasising the fluid nature of time, change, causation, and other key concepts.
