@@ -4,6 +4,10 @@ title: "Workshop: Process Metaphysics"
 author_profile: true
 ---
 
+**Thank You! A Successful Workshop Comes to a Close**
+======
+Our Workshop wrapped up on September 19, 2025, marking the end of two days of insightful discussions. This is were the ongoing process turned into a process having-gone-on! We extend gratitued to all participants who made this event an extraordinary gathering of minds and ideas. 
+
 Overview
 ======
 
